@@ -1,0 +1,13 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(467,5): warning MSB8028: промежуточный каталог (Debug\) содержит файлы, которые используются совместно с другим проектом (Lab4.1.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  Arcive.cpp
+D:\Leo's\Projects\GitHub\OS_Lab4\Lab4\Lab4\Arcive.h(24,16): warning C4129: L: неизвестная escape-последовательность
+D:\Leo's\Projects\GitHub\OS_Lab4\Lab4\Lab4\Arcive.h(25,22): warning C4129: L: неизвестная escape-последовательность
+D:\Leo's\Projects\GitHub\OS_Lab4\Lab4\Lab4\Arcive.cpp(6,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Leo's\Projects\GitHub\OS_Lab4\Lab4\Lab4\Arcive.cpp(24,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Leo's\Projects\GitHub\OS_Lab4\Lab4\Lab4\Arcive.cpp(42,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Leo's\Projects\GitHub\OS_Lab4\Lab4\Lab4\Arcive.cpp(64,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Leo's\Projects\GitHub\OS_Lab4\Lab4\Lab4\Arcive.cpp(111,13): warning C4129: L: неизвестная escape-последовательность
+D:\Leo's\Projects\GitHub\OS_Lab4\Lab4\Lab4\Arcive.cpp(124,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Leo's\Projects\GitHub\OS_Lab4\Lab4\Lab4\Arcive.cpp(129,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Leo's\Projects\GitHub\OS_Lab4\Lab4\Lab4\Arcive.cpp(137,10): warning C4129: L: неизвестная escape-последовательность
+  Lab4.vcxproj -> D:\Leo's\Projects\GitHub\OS_Lab4\Lab4\Debug\Lab4.exe
